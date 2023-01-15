@@ -11,7 +11,7 @@
  
 >  ### ⚙ Installation ⚙
 >  
-> - [Download the ``ModLoader.zip`` file](https://github.com/BrotatoMods/Brotato-ModLoader-Draft/releases/download/v2.0.0/ModLoader.zip)
+> - [Download the ``ModLoader.zip`` file](https://github.com/BrotatoMods/Brotato-ModLoader/releases/download/v2.0.0/ModLoader.zip)
 >
 > - Unpack the ``ModLoader.zip`` file
 >
