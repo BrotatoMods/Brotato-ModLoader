@@ -88,7 +88,5 @@ See the main [BrotatoMods GitHub page](https://github.com/BrotatoMods) for the c
 
 ### Example Mods
 
-| Name/Repo | 💾 | Version | Notes |
-| --- | --- | --- | --- |
-| VersionString | [ZIP](https://github.com/BrotatoMods/Brotato-ModLoader/releases/download/v2.0.0/Darkly77-VersionString.zip) | 1.0.0 | Simple example mod. Appends the version on the title screen |
-| VersionString2 | [ZIP](https://github.com/BrotatoMods/Brotato-ModLoader/releases/download/v2.0.0/Darkly77-VersionString2.zip) | 1.0.0 | Variation of VersionString. <br>Demonstrates that mods can be chained without conflicts |
+Download some example mods from [BrotatoMods/Brotato-Example-Mods](https://github.com/BrotatoMods/Brotato-Example-Mods).
+
