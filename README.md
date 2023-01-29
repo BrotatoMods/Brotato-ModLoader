@@ -11,9 +11,9 @@
  
 >  ### ⚙ Installation ⚙
 >  
-> - [Download the ``ModLoader.zip`` file](https://github.com/BrotatoMods/Brotato-ModLoader/releases/download/v2.0.0/ModLoader.zip)
+> - Download the latest PCK from the [Releases page](https://github.com/BrotatoMods/Brotato-ModLoader/releases). The PCK will be under "Assets" and have the file etxension ".pck".
 >
-> - Unpack the ``ModLoader.zip`` file
+> - Rename the PCK to `ModLoader.pck`
 >
 > - Copy the ``ModLoader.pck`` and the ``run.gd`` inside the Brotato game folder   
 > ![image](https://user-images.githubusercontent.com/41547570/209873722-64bd0388-1a2b-4c67-88d7-3b83499f7466.png)
