@@ -84,14 +84,7 @@
 
 ### Available Mods
 
-| Name/Repo | 💾 | Version | Notes | Wiki | Dependencies |
-| --- | --- | --- | --- | --- | --- |
-| 📦 [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader/releases) | [ZIP](https://github.com/BrotatoMods/Brotato-ContentLoader/releases/download/v2.0.0/Dami-ContentLoader-v2.0.0.zip) | 2.0.0 | Makes adding content easier. <br>*Formerly "dami's multi mod script"* | - | - |
-| 👽 [Invasion](https://github.com/BrotatoMods/Brotato-Invasion-Mod/releases) | [ZIP](https://github.com/BrotatoMods/Brotato-Invasion-Mod/releases/download/v6.0.0/Darkly77-Invasion-6.0.0.zip) | 0.6.0 | Adds content from the game Space Gladiators | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Invasion) | ContentLoader |
-| 💰 [Harvest Calc](https://github.com/BrotatoMods/Brotato-Harvest-Calc) | [ZIP](https://github.com/BrotatoMods/Brotato-Harvest-Calc/releases/download/v1.0.0/Cube-HarvestCalc.zip) | 1.0.0 | Adds a tooltip to items with harvesting, to show when they will be profitable.  | - | - |
-| 👁 [Multi Res](https://github.com/BrotatoMods/Brotato-MultiRes) | [ZIP](https://github.com/BrotatoMods/Brotato-MultiRes/releases/download/v1.1.0/KANA-MultiRes.zip) | 1.1.0 | Enables resolutions higher than 1080p | [Wiki](https://brotato.wiki.spellsandguns.com/Mod:Multiple_Resolutions_Mod) | - |
-| 💥 [Explosion Mute](https://github.com/BrotatoMods/Brotato-Explosion-Mute) | [ZIP](https://github.com/BrotatoMods/Brotato-Explosion-Mute/releases/download/v1.0.0/KANA-ExplosionMute.zip) | 1.0.0 | Mutes the explosion effect.  | - | - |
-| ✨ [BFX](https://github.com/BrotatoMods/Brotato-BFX) | - | - | Upcoming library of effects and helpers (WIP) | - | - | - |
+See the main [BrotatoMods GitHub page](https://github.com/BrotatoMods) for the current list of compatible mods.
 
 ### Example Mods
 
