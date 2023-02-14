@@ -51,16 +51,6 @@ weapon_gain_effect.gd
 ```
 
 
-### New Effects
-
-These effect files are new:
-
-```
-chance_stat_damage_effect.gd
-stat_cap_effect.gd
-```
-
-
 ### Effects Changes
 
 The following effects have been removed. Some of these didn't do anything (eg. `gambler`), and others have been renamed (eg. `dmg_when_death_from_luck` > `dmg_when_death`).
@@ -79,6 +69,17 @@ These effects have been changed slightly:
 remove_speed          -- Now defaults to [], previously defaulted to [0,0]
 upgrade_random_weapon -- Now defaults to [], previously defaulted to 0
 ```
+
+### New Effect Files
+
+These effect files are new:
+
+```
+chance_stat_damage_effect.gd
+stat_cap_effect.gd
+```
+
+### New Effect Keys
 
 These effects have been added:
 
