@@ -1,6 +1,6 @@
 # Brotato-ModLoader
 
-**Brotato PCK using the latest version of [ModLoader](https://github.com/GodotModding/godot-mod-loader).**
+## This repo is out of date, as Brotato now oficially includes ModLoader. Please do not use this repo or the files it provides. This repo is only preserved here for historical reasons, and may be removed completely in the future.
 
 ## Installation
 
