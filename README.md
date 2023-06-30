@@ -1,6 +1,6 @@
 # Brotato-ModLoader
 
-## This repo is out of date, as Brotato now oficially includes ModLoader. Please do not use this repo or the files it provides. This repo is only preserved here for historical reasons, and may be removed completely in the future.
+## This repo is out of date, as Brotato now oficially includes [ModLoader](https://github.com/GodotModding/godot-mod-loader). Please do not use this repo or the files it provides. This repo is only preserved here for historical reasons, and may be removed completely in the future.
 
 ## Installation
 
